@@ -1,0 +1,3 @@
+C:\Users\bsamu\Documents\COMP2068-lab2\JsCalc\JsCalc\obj\Debug\JsCalc.njsprojAssemblyReference.cache
+C:\Users\bsamu\Documents\COMP2068-lab2\JsCalc\JsCalc\obj\Debug\JsCalc.njsproj.CoreCompileInputs.cache
+C:\Users\bsamu\Documents\COMP2068-lab2\JsCalc\JsCalc\bin\Microsoft.NodejsTools.WebRole.dll
